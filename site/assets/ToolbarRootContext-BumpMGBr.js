@@ -1,0 +1,1 @@
+import{i as e,s as t}from"./utils-fiNhQFKb.js";import{s as n}from"./useRenderElement-Cplr4RUg.js";var r=t(e(),1),i=r.createContext(void 0);function a(e){let t=r.useContext(i);if(t===void 0&&!e)throw Error(n(69));return t}export{a as t};

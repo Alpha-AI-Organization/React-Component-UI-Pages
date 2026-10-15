@@ -1,0 +1,1 @@
+import{i as e,s as t}from"./utils-fiNhQFKb.js";import{c as n}from"./useRenderElement-Cplr4RUg.js";var r=t(e(),1);function i(e){r.useEffect(e,n)}export{i as t};

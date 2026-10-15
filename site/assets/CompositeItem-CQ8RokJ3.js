@@ -1,0 +1,1 @@
+import{c as e,l as t,t as n}from"./useRenderElement-Cplr4RUg.js";import{_ as r}from"./index-B3_emz1d.js";function i(i){let{render:a,className:o,style:s,state:c=t,props:l=e,refs:u=e,metadata:d,stateAttributesMapping:f,tag:p=`div`,...m}=i,{compositeProps:h,compositeRef:g}=r({metadata:d});return n(p,i,{state:c,ref:[g,...u],props:[h,...l,m],stateAttributesMapping:f})}export{i as t};

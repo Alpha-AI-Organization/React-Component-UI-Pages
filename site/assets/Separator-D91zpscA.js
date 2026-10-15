@@ -1,0 +1,1 @@
+import{i as e,s as t}from"./utils-fiNhQFKb.js";import{t as n}from"./useRenderElement-Cplr4RUg.js";var r=t(e(),1).forwardRef(function(e,t){let{className:r,render:i,orientation:a=`horizontal`,style:o,...s}=e;return n(`div`,e,{state:{orientation:a},ref:t,props:[{role:`separator`,"aria-orientation":a},s]})});export{r as t};

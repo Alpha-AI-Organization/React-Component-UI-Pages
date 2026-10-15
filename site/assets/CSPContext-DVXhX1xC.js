@@ -1,0 +1,1 @@
+import{i as e,s as t}from"./utils-fiNhQFKb.js";var n=t(e(),1),r=n.createContext(void 0),i={disableStyleElements:!1};function a(){return n.useContext(r)??i}export{a as t};
